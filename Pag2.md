@@ -12,3 +12,6 @@
    > aihbdohaso
    > saoihdioa
    > dsiaohfoi
+5) Come scrivere liste: * ciao
+                        * hello
+                        * bounjour
