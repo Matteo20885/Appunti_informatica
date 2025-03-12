@@ -1,4 +1,4 @@
 # Continua a imparare
 
-1) Ecco come creare immagini ![](https://static.trinityroad.com/prod/2000/2066548.jpg)
+1) Ecco come creare immagini: ![](https://static.trinityroad.com/prod/2000/2066548.jpg)
 2) 
