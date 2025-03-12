@@ -1,2 +1,3 @@
 # Appunti_informatica
-Appunti_informatica(è il nome)
+Appunti_informatica
+_zio pera_, non è come dire **dio cane**
