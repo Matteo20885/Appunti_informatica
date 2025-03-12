@@ -10,4 +10,3 @@ Appunti_informatica
  #### medio_piccolo
  ##### piccolo
  ###### piccolissimo
-################ ciao
