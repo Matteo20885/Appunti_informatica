@@ -13,4 +13,4 @@
 5) per creare link esterni: Visita il sito [Github](www.github.com)
 6) per creare link interni: Entra nella pagina successiva [->][another_place]
 
-[another_place]: https://github.com/Matteo20885/Appunti_informatica/edit/main/Pag2.md
+[another_place]: [https://github.com/Matteo20885/Appunti_informatica/edit/main/Pag2.md](https://github.com/Matteo20885/Appunti_informatica/blob/main/Pag2.md)
