@@ -11,4 +11,6 @@ Appunti_informatica
    ##### piccolo
    ###### piccolissimo
 5) per creare link esterni: Visita il sito ([Github](www.github.com))
-6) per creare link interni: Entra nella pagina successiva ([->][Pag2])
+6) per creare link interni: Entra nella pagina successiva ([->][another_place])
+
+[another_place]: 
