@@ -1,5 +1,5 @@
 # Appunti_informatica
-Appunti_informatica
+##Impara i comandi principali
 1) Questo è un esempio di una parola in corsivo:  _corsivo_
 2) Questo è un esempio di una parola in grassetto:  **grassetto**
 3) Questo è un misto:  _**misto**_
