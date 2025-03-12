@@ -10,4 +10,5 @@ Appunti_informatica
    #### medio_piccolo
    ##### piccolo
    ###### piccolissimo
-5) per creare link: Visita il sito ([Github](www.github.com))
+5) per creare link esterni: Visita il sito ([Github](www.github.com))
+6) per creare link interni: Entra nella pagina successiva [->][pag2]
